@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="autoSize" format="dimension"></attr>
+    <attr name="autoNum" format="integer"></attr>
+
+    <declare-styleable name="AuthCodeTextView">
+        <attr name="autoSize"/>
+        <attr name="autoNum"/>
+    </declare-styleable>
+</resources>

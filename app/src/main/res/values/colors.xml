@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="autoCodeBg">#a4a2a2</color>
+    <color name="autoPoint">#393737</color>
+    <color name="autoRed">#a36c6c</color>
+    <color name="autoBlue">#5361d1</color>
+    <color name="autoYellow">#8e973d</color>
+    <color name="autoPurple">#893a9b</color>
+    <color name="autoGreen">#26a441</color>
+    <color name="autoCyan">#279b86</color>
+</resources>

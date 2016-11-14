@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.idisfkj.customvieworviewgroup.view.CustomViewGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/autoPoint">
+
+    <TextView
+        android:gravity="center"
+        android:background="@color/autoBlue"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:text="1" />
+
+    <TextView
+        android:gravity="center"
+        android:background="@color/autoCyan"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text="2" />
+
+    <TextView
+        android:gravity="center"
+        android:background="@color/autoPurple"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text="3" />
+
+    <TextView
+        android:gravity="center"
+        android:background="@color/autoYellow"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text="4" />
+
+</com.idisfkj.customvieworviewgroup.view.CustomViewGroup>
